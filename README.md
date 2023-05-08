@@ -1,6 +1,8 @@
 ## Descripción
 He realizado una pagina que es un punto de venta que sera utilizada por el personal para vender y esta enfocado a un local de comida
- 
+IMPORTANTE:
+El usuario es usuario1 y la contraseña es contraseña1
+
 ## Autor
 **Luis Viteri**
 
