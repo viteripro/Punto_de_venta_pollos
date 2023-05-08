@@ -1,0 +1,22 @@
+{
+	"usuarios": [
+	  {
+		"usuario": "usuario1",
+		"contraseña": "contraseña1",
+		"correo":"usuario1@gmail.com"
+	  },
+	  {
+		"usuario": "usuario2",
+		"contraseña": "contraseña2",
+		"correo":"usuario2@gmail.com"
+	  },
+	  {
+		"usuario": "usuario3",
+		"contraseña": "contraseña3",
+		"correo":"usuario3@gmail.com"
+	  }
+	]
+  }
+  
+  
+  

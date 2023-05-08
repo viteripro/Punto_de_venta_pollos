@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+
+   background-image: linear-gradient(50deg,  rgba(100,150,100,0.8) 20%, rgba(240,150,100,0.5) 100% ),
+   url(img/fondo_pollo.png);
+   background-size: cover;
+   font-family: sans-serif;
+   color: white;
+}
+
+.card_container{
+   background-color: #fff;
+   width: 35%;
+   text-align: center;
+   border-radius: 2em;
+    box-shadow: 0 0 2em black;
+    overflow: hidden;
+    padding-bottom: 1em;
+}
+
+.card_presentation{
+   width: 60%;
+   margin-top: 2em;
+}
+
+.title-presentation{
+display: inline-block;
+}
+
+.title-name{
+  font-size: 3em;
+}
+
+.text-description{
+  font-size: 2.5em;
+}
+
+.flex-container{
+   display: flex;
+   margin-top: 5.5em;
+}
+
+.title-card{
+   font-size: 2em;
+   background-color: #0780d4;
+   padding: 0.5em;
+   color: white;
+}
+
+.img-login{
+   width: 60%;
+   margin-top: 2.5em;
+}
+
+.input{
+   padding: 0.5em;
+   margin-top: 1.4em;
+}
+
+.btn-enviar{
+   width: 40%;
+   background-color: #0780d4;
+   margin-top: 1em;
+   font-size: 1.5em;
+   color: white;
+}
